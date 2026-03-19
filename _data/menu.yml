@@ -6,7 +6,7 @@ entries:
     entries:
       - title: Lisboa, Portugal
       - title: site@eurico.pt
-      url: mailto:site@eurico.pt
+        url: mailto:site@eurico.pt
 #  - title: all posts
 #    post_list:
 #      limit: 5
