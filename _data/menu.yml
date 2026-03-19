@@ -2,10 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Info
     entries:
-      - title: por vir
-      - title: web design is my passion
+      - title: Lisboa, Portugal
+      - title: <sd@eurico.pt>
 #  - title: all posts
 #    post_list:
 #      limit: 5
